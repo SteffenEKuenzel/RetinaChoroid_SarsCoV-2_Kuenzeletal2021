@@ -6,4 +6,4 @@ We thank Madhvi Menon, Shahin Mohammadi, Jose Davila-Velderrain et al. from Broa
 
 We reprocessed the data from raw quantification matrix following standard Seurat (v.3.1) clustering procedure. We included cells which expressed at least 100 features, and features, that could be detected in at least 3 cells. To take advantage of the improved Seurat pre-processing and normalization workflow, we used the “SCTransform” function, thereby we “corrected” log-normalized expression values across datasets. To reannotate the cells, multiple clusterings of different resolutions were generated among which the one best matching published clustering was picked and manual annotation was undertaken using marker genes (compare Suppl. Figure 1).
 
-If you have any questions or require assistance with similar projects, please do not hesitate to contact the corresponding author Steffen E. Künzel (steffen-emil.kuenzel@charite.de). 
+If you have any questions or require assistance with similar projects, please do not hesitate to contact the corresponding authors Steffen E. Künzel (steffen-emil.kuenzel@charite.de) and Alexandre Dubrac (alexandre.dubrac@umontreal.ca).
