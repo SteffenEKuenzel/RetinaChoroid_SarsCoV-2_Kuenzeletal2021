@@ -1,6 +1,6 @@
 # RetinaChoroid_SarsCoV-2_Kuenzeletal2021
 To the scientific community:
-This repository contains the relevant R codes for the analysis of human retina and choroid scRNA seq datasets. The original publication can be found here ### (to be filled in, when article goes online).
+This repository contains the relevant R codes for the analysis of human retina and choroid scRNA seq datasets. The original publication with the title "Low vulnerability of the posterior eye segment to SARS-CoV-2 infection" can be found here ### (to be filled in, when article goes online).
 
 We thank Madhvi Menon, Shahin Mohammadi, Jose Davila-Velderrain et al. from Broad Institute of MIT and Harvard, as well as Andrew P. Voigt et al. from the Insitute for Vision Research from the University of Iowa, for providing the rich transcriptomic datasets to the scientific community. Raw and processed data of the human retina and choroid have previously been deposited through GEO (gene expression omnibus, NCBI) under the accession number GSE137537 (license: CC-BY 4.0) and GSE135922 (license: CC-BY-NC-ND 4.0, with permission of corresponding author Prof. Mullins). The raw gene counts for each dataset were downloaded from GEO database (https://www.ncbi.nlm.nih.gov/geo/). 
 
